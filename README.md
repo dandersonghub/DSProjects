@@ -1,5 +1,5 @@
-# testrepo
+# DataScience
 
-## Editing the file
+## Projets 
 
-Its a markdown file in this repository. 
+These files include Data Science Projects that I completed while obtaining my IBM Data Scientist Professional Certification. They were used in order to test my proficency with each topic. 
